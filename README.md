@@ -164,7 +164,7 @@ Let:
 
 Then:
 
-$$
+```math
 \mathrm{Choice\ MI}
 =
 \frac{
@@ -172,7 +172,7 @@ $$
 }{
 \left|FR_{\mathrm{right}} + FR_{\mathrm{left}}\right|
 }
-$$
+```
 
 A small Choice MI indicates similar activity for the two choices.
 
