@@ -168,9 +168,9 @@ $$
 \mathrm{Choice\ MI}
 =
 \frac{
-\left| FR_{\mathrm{right}} - FR_{\mathrm{left}} \right|
+\left|FR_{\mathrm{right}} - FR_{\mathrm{left}}\right|
 }{
-\left| FR_{\mathrm{right}} + FR_{\mathrm{left}} \right|
+\left|FR_{\mathrm{right}} + FR_{\mathrm{left}}\right|
 }
 $$
 
